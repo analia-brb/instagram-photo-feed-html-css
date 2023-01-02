@@ -1,0 +1,58 @@
+body{
+    background-color:silver;
+}
+
+header{
+    background-color: white;
+    padding: 10px;
+}
+
+header h1{
+    margin:10px;
+}
+
+.post{
+    background-color: white;
+}
+
+.post h3, .post p{
+    padding: 3px;
+    margin-left: 3px;
+}
+
+div.container{
+    width: 640px;
+    margin: auto;
+    padding-top: 30px;
+
+}
+
+.row{
+    display:inline-table;
+}
+
+.right1{
+    color:gray;
+    padding-left: 450px;
+}
+
+.right2{
+    color:gray;
+    padding-left: 430px;
+}
+
+.right3{
+    color:gray;
+    padding-left: 340px;
+}
+
+.right4{
+    color:gray;
+    padding-left: 390px;
+}
+
+.nav h1{
+    margin: 0px;
+    text-align: center;
+}
+
